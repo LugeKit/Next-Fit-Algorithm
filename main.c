@@ -1,8 +1,3 @@
-// 班级：F1703603
-// 姓名：李嘉琦
-// 学号：517021910814
-// 循环首次适应法 main.c
-
 #include <stdio.h>
 #include <stdlib.h>
 
